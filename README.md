@@ -1,3 +1,5 @@
+#下载项目 <br/>
+    git clone git@github.com:modanzuo/react-antd-demo.git <br/>
 #框架用到的库
 antd<br/>
 react<br/>
