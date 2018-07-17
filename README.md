@@ -7,15 +7,15 @@ react-router-dom<br/>
 fetch <br/>
 #运行
 安装库
-npm install
-本地开发
-yarn
-    yarn run start
-npm
-    npm run start
+npm install <br/>
+#本地开发
+yarn <br/>
+    yarn run start <br/>
+npm <br/>
+    npm run start <br/>
 
-上线
-yarn
-    yarn run build
-npm
-    npm run build
+上线 <br/>
+yarn <br/>
+    yarn run build <br/>
+npm <br/>
+    npm run build <br/>
